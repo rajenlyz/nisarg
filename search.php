@@ -16,7 +16,7 @@ get_header(); ?>
 							<h3 class="search-page-title"><?php printf( esc_html__( 'Search Results for: %s', 'nisarg' ), '<span>' . get_search_query() . '</span>' ); ?></h3>
 						</header><!-- .page-header -->
 
-					<section id="primary" class="col-md-8 col-md-offset-1 content-area">
+					<section id="primary" class="col-md-8 col-md-offset-0 content-area">
 						<main id="main" class="site-main" role="main">
 
 						<?php /* Start the Loop */ ?>
