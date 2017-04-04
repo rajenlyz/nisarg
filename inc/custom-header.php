@@ -141,7 +141,8 @@ function nisarg_header_style() {
     	box-shadow: 0px 0px 1px 1px rgba(182,182,182,0.3);
 	}
 	.site-header {
-			height: 200px;
+			/*height: 200px;*/
+			height: 150px;
 		}
 		@media (max-width: 767px) {
 			.site-header {
