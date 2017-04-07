@@ -1252,9 +1252,9 @@ color: #000000;
 */
 
 .site-footer{
-    /* background-color: #222;*/
+    background-color: #5d6e7a;
     color: white;
-    min-height: 70px;
+    min-height: 50px;
     font-size: 16px;
     padding: 1em;
     letter-spacing: 1px;
