@@ -1252,7 +1252,7 @@ color: #000000;
 */
 
 .site-footer{
-    background-color: #222;
+    /* background-color: #222;*/
     color: white;
     min-height: 70px;
     font-size: 16px;
